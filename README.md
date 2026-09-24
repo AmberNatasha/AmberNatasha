@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:f4a6c8,100:c084fc&height=220&section=header&text=Amber%20Natasha&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Encabezado de Amber Natasha" />
 
-### 🎓 Student · 💗 Full Stack Developer · UI Design · Testing · CI/CD
+### 🎓 Ingeniería en Sistemas Computacionales · 💗 Full Stack Developer · UI Design · Testing · CI/CD
 
-**Creando soluciones útiles, bonitas y funcionales mientras sigo creciendo constantemente.**
+**Creando soluciones corporativas útiles, bonitas y funcionales mientras sigo creciendo constantemente.**
 
 [![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-d14d72?style=for-the-badge)](#)
-[![Student](https://img.shields.io/badge/Software_Development-Student-c084fc?style=for-the-badge)](#)
+[![Systems Engineering](https://img.shields.io/badge/Systems_Engineering-Student-c084fc?style=for-the-badge)](#)
 [![Open to Learn](https://img.shields.io/badge/Open_to-New_Technologies-ffb6d9?style=for-the-badge)](#)
 
 [![Email](https://img.shields.io/badge/Email-amberbaraya2209%40gmail.com-d14d72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amberbaraya2209@gmail.com)
@@ -19,11 +19,15 @@
 
 ## 🌷 Sobre mí
 
-¡Hola! Soy **Amber Natasha**, estudiante de Desarrollo de Software y **Full Stack Developer** en crecimiento, apasionada por crear soluciones útiles, funcionales y agradables de usar. Me encanta combinar la lógica del desarrollo con el diseño de interfaces para construir experiencias digitales claras, intuitivas y atractivas.
+¡Hola! Soy **Amber Natasha**, estudiante de **Ingeniería en Sistemas Computacionales** y desarrolladora **Full Stack** en crecimiento.
 
-Cuento con experiencia práctica trabajando con tecnologías frontend y backend como **.NET**, **Spring Boot**, **C#**, **Java**, **SQL**, **HTML** y **CSS**. También utilizo **IA generativa** como apoyo para investigar, aprender, analizar problemas y mejorar mis flujos de trabajo de forma responsable.
+Mi enfoque principal es el **desarrollo de software para empresas corporativas**, creando soluciones útiles, escalables y funcionales que ayuden a optimizar procesos y responder a necesidades reales de negocio.
 
-Soy una persona aplicada, colaborativa y abierta a utilizar nuevas tecnologías, herramientas y entornos. Aprendo muy rápido, me adapto con facilidad y disfruto asumir nuevos retos que me permitan seguir creciendo.
+Me gusta el **pensamiento lógico**, el análisis y la resolución de problemas. Disfruto transformar retos complejos en soluciones claras mediante la programación, el diseño de sistemas y el trabajo colaborativo.
+
+Cuento con experiencia práctica utilizando **C#**, **.NET**, **Java**, **Spring Boot**, **SQL**, **HTML** y **CSS**. También me interesan el **UI Design**, las pruebas de software, el **CI/CD** y el uso responsable de la **IA generativa** como apoyo para aprender, investigar y desarrollar.
+
+Soy una persona aplicada, colaborativa y abierta a trabajar con nuevas tecnologías, herramientas y entornos. Aprendo rápidamente, me adapto con facilidad y estoy siempre en constante aprendizaje y desarrollo.
 
 <table>
 <tr>
@@ -31,14 +35,30 @@ Soy una persona aplicada, colaborativa y abierta a utilizar nuevas tecnologías,
 
 ### 🧩 Full Stack
 
-Desarrollo soluciones frontend y backend, desde interfaces intuitivas hasta la lógica de negocio y la gestión de datos.
+Desarrollo soluciones frontend y backend, desde interfaces intuitivas hasta la lógica de negocio, las APIs y la gestión de datos.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Software corporativo
+
+Me enfoco en crear sistemas mantenibles, escalables y orientados a mejorar procesos dentro de empresas y organizaciones.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Pensamiento lógico
+
+Me gustan el análisis, la resolución de problemas, las matemáticas discretas y el cálculo como bases para desarrollar soluciones eficientes.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Estudiante aplicada
 
-Actualmente estudio Desarrollo de Software y complemento mi formación con proyectos prácticos, investigación y nuevos desafíos tecnológicos.
+Actualmente estudio Ingeniería en Sistemas Computacionales y complemento mi formación con proyectos prácticos, investigación y nuevos desafíos tecnológicos.
 
 </td>
 </tr>
@@ -62,9 +82,9 @@ Disfruto colaborar, compartir ideas y aprender junto a otras personas para const
 
 ## 🎓 Formación académica
 
-Actualmente soy estudiante de **Desarrollo de Software** y he completado aproximadamente el **87% de mi carrera**, con graduación prevista para **2027**.
+Actualmente soy estudiante de **Ingeniería en Sistemas Computacionales** y he completado aproximadamente el **87% de mi carrera**, con graduación prevista para **2027**.
 
-Soy una estudiante aplicada, constante y comprometida con mi formación. Me interesan especialmente las **matemáticas discretas** y el **cálculo**, porque fortalecen mi pensamiento lógico, mi capacidad de análisis y la resolución de problemas; habilidades fundamentales para alcanzar el éxito en el desarrollo de software.
+Soy una estudiante aplicada, constante y comprometida con mi formación. Me interesan especialmente las **matemáticas discretas** y el **cálculo**, porque fortalecen mi pensamiento lógico, mi capacidad de análisis y la resolución de problemas; habilidades fundamentales para desarrollar software corporativo de calidad.
 
 ## 💻 Mi stack tecnológico
 
@@ -199,7 +219,7 @@ Juego de Batalla Naval desarrollado en Java.
 
 ## 🌱 Desarrollo continuo
 
-Cuento con habilidades en desarrollo Full Stack, bases de datos, diseño de interfaces, pruebas y automatización. A la vez, estoy **siempre en constante aprendizaje y desarrollo**, explorando nuevas tecnologías, buenas prácticas y herramientas que me permitan crear software de mayor calidad.
+Cuento con habilidades en desarrollo Full Stack, bases de datos, diseño de interfaces, pruebas y automatización. A la vez, estoy **siempre en constante aprendizaje y desarrollo**, explorando nuevas tecnologías, buenas prácticas y herramientas que me permitan crear software corporativo de mayor calidad.
 
 Estoy abierta a trabajar en diferentes tecnologías y entornos porque aprendo rápidamente, me adapto con facilidad y disfruto convertir cada reto en una oportunidad para crecer.
 
@@ -207,11 +227,13 @@ Estoy abierta a trabajar en diferentes tecnologías y entornos porque aprendo r�
 
 ```text
 Desarrollo Full Stack       █████████████████░░░  85%
-Diseño de interfaces        ███████████████████░  90%
-Bases de datos y SQL        █████████████████░░░  85%
-Testing y calidad           ████████████████░░░░  80%
-CI/CD y automatización      ██████████████░░░░░░  70%
-Aprendizaje continuo        ████████████████████  100%
+Software corporativo        ████████████████░░░░  80%
+Pensamiento lógico           ███████████████████░  90%
+Diseño de interfaces         ███████████████████░  90%
+Bases de datos y SQL         █████████████████░░░  85%
+Testing y calidad            ████████████████░░░░  80%
+CI/CD y automatización       ██████████████░░░░░░  70%
+Aprendizaje continuo         ████████████████████  100%
 ```
 
 ## 💌 Información y contacto
