@@ -8,6 +8,7 @@
 
 [![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-d14d72?style=for-the-badge)](#)
 [![Systems Engineering](https://img.shields.io/badge/Systems_Engineering-Student-c084fc?style=for-the-badge)](#)
+[![Data & BI](https://img.shields.io/badge/Data_%26_BI-Interested-29B5E8?style=for-the-badge)](#)
 [![Open to Learn](https://img.shields.io/badge/Open_to-New_Technologies-ffb6d9?style=for-the-badge)](#)
 
 [![Email](https://img.shields.io/badge/Email-amberbaraya2209%40gmail.com-d14d72?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amberbaraya2209@gmail.com)
@@ -25,7 +26,11 @@ Mi enfoque principal es el **desarrollo de software para empresas corporativas**
 
 Me gusta el **pensamiento lógico**, el análisis y la resolución de problemas. Disfruto transformar retos complejos en soluciones claras mediante la programación, el diseño de sistemas y el trabajo colaborativo.
 
-Cuento con experiencia práctica utilizando **C#**, **.NET**, **Java**, **Spring Boot**, **SQL**, **HTML** y **CSS**. También me interesan el **UI Design**, las pruebas de software, el **CI/CD** y el uso responsable de la **IA generativa** como apoyo para aprender, investigar y desarrollar.
+Cuento con experiencia práctica utilizando **C#**, **.NET**, **Java**, **Spring Boot**, **SQL**, **HTML** y **CSS**. También tengo experiencia e interés en tecnologías de datos como **Oracle**, **Snowflake**, bases de datos **NoSQL**, **KNIME** y cubos **OLAP**.
+
+Considero que un **Data Warehouse** es un componente importante al crear una solución de software corporativa, ya que permite organizar, integrar y analizar información para apoyar la toma de decisiones y generar valor para el negocio.
+
+También me interesan el **UI Design**, las pruebas de software, el **CI/CD** y el uso responsable de la **IA generativa** como apoyo para aprender, investigar y desarrollar.
 
 Soy una persona aplicada, colaborativa y abierta a trabajar con nuevas tecnologías, herramientas y entornos. Aprendo rápidamente, me adapto con facilidad y estoy siempre en constante aprendizaje y desarrollo.
 
@@ -43,6 +48,22 @@ Desarrollo soluciones frontend y backend, desde interfaces intuitivas hasta la l
 ### 🏢 Software corporativo
 
 Me enfoco en crear sistemas mantenibles, escalables y orientados a mejorar procesos dentro de empresas y organizaciones.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Datos y Business Intelligence
+
+Me interesa trabajar con datos empresariales, procesos de transformación, análisis multidimensional y soluciones orientadas a la toma de decisiones.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Data Warehouse
+
+Considero el Data Warehouse una pieza importante para integrar información, facilitar el análisis y respaldar soluciones corporativas de calidad.
 
 </td>
 </tr>
@@ -103,15 +124,36 @@ Soy una estudiante aplicada, constante y comprometida con mi formación. Me inte
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Datos, calidad y DevOps
+### Datos, análisis y Business Intelligence
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge)
+![KNIME](https://img.shields.io/badge/KNIME-F7C600?style=for-the-badge&logo=knime&logoColor=black)
+![OLAP](https://img.shields.io/badge/OLAP-6A5ACD?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-4053D6?style=for-the-badge)
+
+### Calidad, DevOps y herramientas
+
 ![Testing](https://img.shields.io/badge/Testing-d14d72?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+## 📈 Datos y análisis empresarial
+
+Además del desarrollo Full Stack, tengo experiencia práctica con herramientas y conceptos relacionados con el manejo y análisis de datos empresariales:
+
+- 🗄️ **Oracle** y bases de datos relacionales.
+- ❄️ **Snowflake** para trabajar con datos en la nube.
+- 🧩 Bases de datos **NoSQL** y distintos modelos de almacenamiento.
+- 🔄 **KNIME** para integración, transformación y análisis de datos.
+- 📊 Cubos **OLAP** para análisis multidimensional y apoyo a la toma de decisiones.
+- 🏢 **Data Warehouse** como componente para integrar información y respaldar soluciones corporativas.
+- 💡 Enfoque en soluciones basadas en información confiable, accesible y útil para el negocio.
 
 ## 🌸 Áreas que me apasionan
 
@@ -219,21 +261,22 @@ Juego de Batalla Naval desarrollado en Java.
 
 ## 🌱 Desarrollo continuo
 
-Cuento con habilidades en desarrollo Full Stack, bases de datos, diseño de interfaces, pruebas y automatización. A la vez, estoy **siempre en constante aprendizaje y desarrollo**, explorando nuevas tecnologías, buenas prácticas y herramientas que me permitan crear software corporativo de mayor calidad.
+Cuento con habilidades en desarrollo Full Stack, bases de datos, análisis empresarial, diseño de interfaces, pruebas y automatización. A la vez, estoy **siempre en constante aprendizaje y desarrollo**, explorando nuevas tecnologías, buenas prácticas y herramientas que me permitan crear software corporativo de mayor calidad.
 
 Estoy abierta a trabajar en diferentes tecnologías y entornos porque aprendo rápidamente, me adapto con facilidad y disfruto convertir cada reto en una oportunidad para crecer.
 
 ## 📊 Mi enfoque
 
 ```text
-Desarrollo Full Stack       █████████████████░░░  85%
-Software corporativo        ████████████████░░░░  80%
-Pensamiento lógico           ███████████████████░  90%
-Diseño de interfaces         ███████████████████░  90%
-Bases de datos y SQL         █████████████████░░░  85%
-Testing y calidad            ████████████████░░░░  80%
-CI/CD y automatización       ██████████████░░░░░░  70%
-Aprendizaje continuo         ████████████████████  100%
+Desarrollo Full Stack        █████████████████░░░  85%
+Software corporativo         ████████████████░░░░  80%
+Datos y Business Intelligence ████████████████░░░░  80%
+Pensamiento lógico            ███████████████████░  90%
+Diseño de interfaces          ███████████████████░  90%
+Bases de datos y SQL          █████████████████░░░  85%
+Testing y calidad             ████████████████░░░░  80%
+CI/CD y automatización        ██████████████░░░░░░  70%
+Aprendizaje continuo          ████████████████████  100%
 ```
 
 ## 💌 Información y contacto
