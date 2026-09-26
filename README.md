@@ -20,7 +20,7 @@
 
 ## 🏛️ Perfil Profesional
 
-Soy **Amber Natasha**, estudiante avanzada de **Ingeniería en Sistemas Computacionales** y desarrolladora **Full Stack** orientada al ámbito empresarial y social.
+Soy **Amber Natasha Bustos**, estudiante avanzada de **Ingeniería en Sistemas Computacionales** y desarrolladora **Full Stack** orientada al ámbito empresarial y social.
 
 Mi práctica se enfoca en la arquitectura de **sistemas de software corporativos e inclusivos**, combinando un profundo análisis algorítmico, abstracción lógica de **estructuras de datos** y gestión de inteligencia de negocios. 
 
