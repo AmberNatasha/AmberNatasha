@@ -185,11 +185,10 @@ Implementación orientada a objetos con uso riguroso de estructuras de datos y l
 ## 📊 Matriz de Competencias
 
 ```text
-Estructuras de Datos y Lógica  ███████████████████░  95%
-Desarrollo Full Stack          █████████████████░░░  85%
-Software Corporativo           ████████████████░░░░  80%
-Data Engineering & BI          ████████████████░░░░  80%
-Accesibilidad y UI/UX Design   ███████████████████░  90%
-Gestión de Bases de Datos      █████████████████░░░  85%
-Testing y Calidad (QA)         ████████████████░░░░  80%
-Integración Continua (CI/CD)   ██████████████░░░░░░  70%
+Estructuras de Datos y Algoritmos  ████████████████████  Especialización Core
+Desarrollo Full Stack              ████████████████████  Especialización Core
+Data Engineering & BI              ████████████████████  Especialización Core
+Accesibilidad y UI/UX Design       ████████████████████  Enfoque Aplicado
+Software Corporativo Enterprise    ████████████████████  Enfoque Aplicado
+Bases de Datos (SQL / NoSQL)       ████████████████████  Enfoque Aplicado
+Testing, QA & CI/CD                ████████████████████  Práctica Continua
