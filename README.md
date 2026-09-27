@@ -76,7 +76,7 @@ Aplicación de la ingeniería de software en proyectos comunitarios, promoviendo
 <td width="50%" valign="top">
 
 ### 🛡️ Calidad y Métodos Ágiles
-Cultura orientada a la mantenibilidad del código, pruebas de software, entrega continua (CI/CD) y adopción ética de IA generativa.
+Cultura orientada a la mantenibilidad del código, pruebas de software, entrega continua (CI/CD) y adopción ética de IA generativa, con interés en optimizar el Data Warehouse, crear interfaces de usuario modernas y optimizar procesos de desarrollo mediante funciones y buenas prácticas.
 
 </td>
 </tr>
@@ -102,6 +102,8 @@ Cultura orientada a la mantenibilidad del código, pruebas de software, entrega 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-2B6CB0?style=for-the-badge)
 
 ### Datos, BI & Almacenamiento
