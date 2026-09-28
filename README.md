@@ -31,6 +31,7 @@ Actualmente, desarrollo mi **Trabajo Comunal Universitario (TCU)** en una **asoc
 * **Estructuras de Datos y Algoritmos:** Especial interés en la abstracción, modelado y optimización de memoria/tiempo mediante árboles, grafos, tablas hash y estructuras avanzadas para la resolución eficiente de problemas.
 * **Desarrollo Enterprise:** Construcción de arquitecturas backend y frontend robustas con **C# (.NET)**, **Java (Spring Boot)**, **SQL**, **HTML5** y **CSS3**.
 * **Datos e Inteligencia de Negocios:** Diseño e integración de soluciones basadas en **Data Warehousing**, **Oracle**, bases NoSQL, **Snowflake**, cubos **OLAP** y pipelines **ETL con KNIME**.
+* **Optimización de Código y SQL:** Enfoque en mejorar rendimiento, eficiencia y mantenibilidad mediante optimización de código y consultas SQL con funciones y recursos avanzados, incluyendo cursores y otros mecanismos de optimización.
 * **Impacto Social y Accesibilidad:** Implementación de principios de **UI/UX accesible**, diseño universal y desarrollo colaborativo en entornos de impacto comunitario.
 
 ---
@@ -115,6 +116,9 @@ Cultura orientada a la mantenibilidad del código, pruebas de software, entrega 
 ### Frontend & Accessibility UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/Accessible_UI%2FUX-2B6CB0?style=for-the-badge&logo=figma&logoColor=white)
 
 ### DevOps, Calidad & Herramientas
