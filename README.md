@@ -115,6 +115,9 @@ Cultura orientada a la mantenibilidad del código, pruebas de software, entrega 
 ### Frontend & Accessibility UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/Accessible_UI%2FUX-2B6CB0?style=for-the-badge&logo=figma&logoColor=white)
 
 ### DevOps, Calidad & Herramientas
