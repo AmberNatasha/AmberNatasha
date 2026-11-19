@@ -41,12 +41,6 @@ Actualmente, desarrollo mi **Trabajo Comunal Universitario (TCU)** en una **asoc
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Estructuras de Datos y Algoritmos
-Modelado abstracto y estructuración eficiente de la información para maximizar el rendimiento, la escalabilidad y la gestión de recursos del sistema.
-
-</td>
-<td width="50%" valign="top">
-
 ### 🏢 Software Corporativo e Inclusivo
 Desarrollo de soluciones alineadas a procesos de negocio y estándares de accesibilidad, garantizando software usable, seguro y funcional.
 
@@ -67,12 +61,6 @@ Estructuración de repositorios de datos integrados como pilar central para el a
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🤝 Compromiso Social (TCU)
-Aplicación de la ingeniería de software en proyectos comunitarios, promoviendo la inclusión digital y la tecnología como herramienta de equidad.
-
-</td>
 <td width="50%" valign="top">
 
 ### 🛡️ Calidad y Métodos Ágiles
