@@ -35,43 +35,6 @@ Actualmente, desarrollo mi **Trabajo Comunal Universitario (TCU)** en una **asoc
 
 ---
 
-## 🔷 Enfoque Técnico y Metodológico
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Software Corporativo e Inclusivo
-Desarrollo de soluciones alineadas a procesos de negocio y estándares de accesibilidad, garantizando software usable, seguro y funcional.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Business Intelligence & Analytics
-Consolidación y análisis multidimensional de datos masivos para orientar la toma de decisiones estratégicas basadas en evidencia.
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Modelado de Data Warehouse
-Estructuración de repositorios de datos integrados como pilar central para el análisis institucional y el soporte operacional.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Calidad y Métodos Ágiles
-Cultura orientada a la mantenibilidad del código, pruebas de software, entrega continua (CI/CD) y adopción ética de IA generativa.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎓 Formación Académica
 
 **Ingeniería en Sistemas Computacionales**
